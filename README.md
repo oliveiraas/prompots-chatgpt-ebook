@@ -44,15 +44,10 @@ Midjourney：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
-## ✨ Features
+## 📚 Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens geradas via MidJourney 
 
 ## 🛠️ Instruções de execução
 
